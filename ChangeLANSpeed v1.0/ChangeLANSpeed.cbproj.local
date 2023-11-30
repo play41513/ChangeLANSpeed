@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/12/09 10:36:28.727.cpp,C:\Users\max\Documents\RAD Studio\Projects\File1.cpp=D:\SourceCode\BCB\ASIX網路\ChangeLANSpeed\File1.cpp</Transaction>
+    <Transaction>2022/12/09 10:36:32.711.cbproj,C:\Users\max\Documents\RAD Studio\Projects\Project1.cbproj=D:\SourceCode\BCB\ASIX網路\ChangeLANSpeed\Project1.cbproj</Transaction>
+    <Transaction>2022/12/09 10:38:31.009.cbproj,D:\SourceCode\BCB\ASIX網路\ChangeLANSpeed\Project1.cbproj=D:\SourceCode\BCB\ASIX網路\ChangeLANSpeed\ChangeLANSpeed.cbproj</Transaction>
+    <Transaction>2022/12/09 10:38:39.974.cbproj,D:\SourceCode\BCB\ASIX網路\ChangeLANSpeed\ChangeLANSpeed.cbproj=D:\SourceCode\BCB\ASIX網路\ChangeLANSpeed\ChangeLANSpeed.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
